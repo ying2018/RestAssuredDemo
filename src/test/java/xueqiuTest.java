@@ -6,7 +6,7 @@ import static org.hamcrest.Matchers.equalTo;
 import static org.hamcrest.Matchers.hasItem;
 import static org.hamcrest.Matchers.hasItems;
 
-public class xueqiu {
+public class xueqiuTest {
     @Test
     public void testSearch(){
         useRelaxedHTTPSValidation();
